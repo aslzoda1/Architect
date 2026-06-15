@@ -51,3 +51,6 @@ ASCII Architect — bu matematik algoritmlar va belgilar simmetriyasi yordamida 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=FFD600&height=60&section=footer" width="100%"/>
 <b>💎 DRAW WITH CODE — Built with ❤️ by Aslzoda 💎</b>
 </div>
+
+
+aslzoda
